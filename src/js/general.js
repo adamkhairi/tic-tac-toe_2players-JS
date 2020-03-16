@@ -4,8 +4,8 @@ let newGame = true;
 let turn = 0
 // Player
 let players = [];
-// players[0] = prompt('Please enter the first player Name : ');
-// players[1] = prompt('Please enter the second player Name : ');
+players[0] = prompt('Please enter the first player Name : ');
+players[1] = prompt('Please enter the second player Name : ');
 // Markers X & O
 let markers = ["X", "O"];
 // Saving players score
